@@ -12,3 +12,5 @@
 1. Thorough Data Research
 2. Structured Data Processing
 3. Beyond Core ML
+4. MLOps and Production Readiness
+
