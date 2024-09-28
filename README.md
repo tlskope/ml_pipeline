@@ -7,3 +7,8 @@
 2. Understand which models perform best for the data type
 3. Iterate to understand what is working.
 
+## Method
+
+1. Thorough Data Research
+2. Structured Data Processing
+3. Beyond Core ML
